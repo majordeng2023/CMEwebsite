@@ -19,3 +19,68 @@
   border-radius: 10px;
   margin-bottom: 8px;
 }
+
+/* Contact form styling */
+.cme-form {
+  max-width: 720px;
+  margin-top: 16px;
+  padding: 16px;
+  border: 1px solid #ddd;
+  border-radius: 14px;
+}
+
+.cme-field {
+  margin-bottom: 14px;
+}
+
+.cme-field label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+
+.cme-field input,
+.cme-field textarea {
+  width: 100%;
+  padding: 10px 12px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  font-size: 1rem;
+}
+
+.cme-field input:focus,
+.cme-field textarea:focus {
+  outline: none;
+  border-color: #888;
+}
+
+.cme-form input,
+.cme-form textarea {
+  border: none;
+  background: transparent;
+  outline: none;
+  box-shadow: none;
+  padding: 6px 4px;
+}
+
+/* FORCE remove boxed inputs on the contact form */
+form.cme-form input,
+form.cme-form textarea,
+form.cme-form input.form-control,
+form.cme-form textarea.form-control {
+  border: none !important;
+  border-bottom: 2px solid #ccc !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  outline: none !important;
+  background: transparent !important;
+  padding: 6px 4px !important;
+  width: 100% !important;
+  appearance: none !important;
+}
+
+/* Focus look */
+form.cme-form input:focus,
+form.cme-form textarea:focus {
+  border-bottom-color: #0d6efd !important;
+}
