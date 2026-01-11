@@ -2,16 +2,20 @@
 title: "Home"
 ---
 
+![](images/CMElogo.png){width=100px}
+
 ## Carolinas Mowing Equipment
 
-Wholesale supplier of aftermarket lawn and turf equipment parts.
+A Wholesale supplier of aftermarket parts for lawn and turf equipment.
+
+[Request a Quote](mailto:carolinasmowingequipment@gmail.com?subject=Wholesale%20Parts%20Quote%20Request){.btn .btn-primary .btn-lg}
 
 ### What We Offer
 - Aftermarket replacement parts
 - Wholesale distribution
-- Reliable regional supply
+- Reliable nationwide supply
 
 ### Who We Serve
-We support distributors, dealers, and service providers across the Carolinas and surrounding regions.
+We support distributors, dealers, and service providers nationwide.
 
 > For product availability and wholesale inquiries, please contact us.
